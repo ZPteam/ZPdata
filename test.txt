@@ -9,4 +9,3 @@ master-testthree
 yuanchengtest
 yuanchengtest2
 guanyue
-version 1.0
